@@ -1,0 +1,6 @@
+{
+  "name": "Doğum Günü ve Hediye Hatırlatıcı",
+  "description": "Arkadaşların doğum günlerini takvimde gösteren, özelleştirilebilir bildirimler gönderen ve kişiye özel hediye fikirleri ile hediye geçmişi tutan modern uygulama.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
